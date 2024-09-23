@@ -1,0 +1,1 @@
+# plugins-genesis-widget-column-classes
